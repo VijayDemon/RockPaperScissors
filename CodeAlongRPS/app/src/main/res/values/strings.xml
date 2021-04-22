@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeAlongRPS</string>
+    <string name="dummy">You  WON ..!</string>
+    <string name="three_dots">...</string>
+</resources>
